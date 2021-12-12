@@ -1,0 +1,4 @@
+S;Andre;andre@email.com;137.510.017-25
+C;Iphone;7000;1;1;X;true;true
+N;MacBook;12000;1;6;true;false
+T;Samsung;8000;1;70;true;true;true

@@ -1,0 +1,21 @@
+****************** RESUMO DO CARRINHO ******************
+Nome do Cliente: Andre
+Email do Cliente: andre@email.com
+Data de Compra :12/12/2021 19:57
+-------------------------------------------------------
+PRODUTOS: 
+Quantidade: 3
+-----------------------------
+Prduto: Iphone
+Valor Inicial R$7000.0
+Valor Final R$7000.0
+-----------------------------
+Prduto: MacBook
+Valor Inicial R$12000.0
+Valor Final R$12000.0
+-----------------------------
+Prduto: Samsung
+Valor Inicial R$8000.0
+Valor Final R$9500.0
+-----------------------------
+Total: R$28500.0
