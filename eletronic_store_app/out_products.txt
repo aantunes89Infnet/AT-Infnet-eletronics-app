@@ -1,7 +1,7 @@
 ****************** RESUMO DO CARRINHO ******************
 Nome do Cliente: Andre
 Email do Cliente: andre@email.com
-Data de Compra :12/12/2021 19:57
+Data de Compra :12/12/2021 21:31
 -------------------------------------------------------
 PRODUTOS: 
 Quantidade: 3

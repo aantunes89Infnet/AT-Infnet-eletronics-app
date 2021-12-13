@@ -13,13 +13,13 @@ public class FileShoppingCartTest {
 
         try {
 
-            String arquivo = "products.txt";
+            String inputFile = "products.txt";
 
-            FileReader fileR = new FileReader(arquivo);
-            BufferedReader reader = new BufferedReader(fileR);
+            FileReader fileReader = new FileReader(inputFile);
+            BufferedReader reader = new BufferedReader(fileReader);
 
-            FileWriter fileW = new FileWriter("out_"+ arquivo);
-            BufferedWriter writer = new BufferedWriter(fileW);
+            FileWriter fileWriter = new FileWriter("out_"+ inputFile);
+            BufferedWriter writer = new BufferedWriter(fileWriter);
 
             String line = reader.readLine();
 
@@ -47,7 +47,6 @@ public class FileShoppingCartTest {
                         try {
                             shoppingCart = new ShoppingCart(client);
                             shoppingCart.setProducts(products);
-                            // shoppingCart.printShoppingCartInfo();
                         } catch (ClientIsInvalidException e) {
                             System.out.println(e.getMessage());
                         }
